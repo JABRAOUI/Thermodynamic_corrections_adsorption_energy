@@ -1,0 +1,2 @@
+# Thermodynamic-corrections-for-adsorption-energy-calculated-from-static-DFT-calculations
+Python code accompanies the publication titled Density Functional Theory Calculations of Surface Thermochemistry in Al/CuO Thermite Reaction published in Phys. Rev. Mater. in 2024. The purpose of this code is to calculate the adsorption energy at finite temperature from the static adsorption energy of a chemical species and their frequency values
